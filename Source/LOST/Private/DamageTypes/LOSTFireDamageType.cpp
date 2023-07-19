@@ -1,0 +1,5 @@
+// LOST GAME. ALL RIGHTS RESERVED! MADE BY IAMHRISTACHEV
+
+
+#include "DamageTypes/LOSTFireDamageType.h"
+
