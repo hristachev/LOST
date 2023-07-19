@@ -14,4 +14,6 @@ class LOST_API ALOSTPlayerController : public APlayerController
 {
 	GENERATED_BODY()
 	
+protected:
+	virtual void BeginPlay() override;
 };
